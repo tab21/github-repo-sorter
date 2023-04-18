@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - TailwindCSS
 - Github API
 
-## 🌐  [Live Site URL](https://tab21.github.io/github-repo-sorter/index.html)
+## 🌐  [Live Site URL](https://643e5b03fd1db924f988b2b1--incandescent-marzipan-8984fd.netlify.app/)
 
 ## 🔅  Further improvement  
 
