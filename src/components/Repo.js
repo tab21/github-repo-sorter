@@ -45,7 +45,9 @@ export default function Repo(props) {
 	}, [props.user]);
 
 	// main component
-	return (
+	return user.message === "Not Found" ? (
+		<h2 className="w-full text-center">USER NOT FOUND</h2>
+	) : (
 		<div className="flex flex-col items-center justify-center p-10 w-full px-20 ">
 			<div className="flex md:flex-row sm:flex-col justify-center items-center">
 				<img
