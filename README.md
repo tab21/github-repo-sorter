@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - TailwindCSS
 - Github API
 
-## 🌐  [Live Site URL](https://643e5b03fd1db924f988b2b1--incandescent-marzipan-8984fd.netlify.app/)
+## 🌐  [Live Site URL](https://643eb01e4aeb2e0c9da6377a--incandescent-marzipan-8984fd.netlify.app/)
 
 ## 🔅  Further improvement  
 
